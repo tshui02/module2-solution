@@ -39,7 +39,7 @@ h1{
   background-color: rgb(210, 216, 216);
   border: black 1px solid;
   margin: 1%;
-  padding: 5px;
+  padding: 10px;
 }
 .section-title{
   position: absolute;
@@ -47,6 +47,8 @@ h1{
   top: 0px;
   border: black 1px solid;
   font-size: 1.25em;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 #chicken-box{
   background-color: mediumaquamarine;
