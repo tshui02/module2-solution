@@ -1,18 +1,22 @@
 @media (min-width: 992px){
   .col-lg-4{
-    width: 29.33%;
+    width: 31.33%;
     float: left;
   }
 }
 @media (min-width: 768px) and (max-width: 991px){
   .col-md-6{
-    width: 46%;
+    width: 48%;
+    float: left;
+  }
+  .col-md-12{
+    width: 98%;
     float: left;
   }
 }
 @media (max-width: 767px){
   .col-sm-12{
-    width: 96;
+    width: 98%;
     float: left;
   }
 }
@@ -34,7 +38,7 @@ h1{
   position: relative;
   background-color: rgb(210, 216, 216);
   border: black 1px solid;
-  margin: 2%;
+  margin: 1%;
   padding: 5px;
 }
 .section-title{
